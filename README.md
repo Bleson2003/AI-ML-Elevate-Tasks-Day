@@ -68,3 +68,6 @@ Google Form Submission Link
 
 🤝 Acknowledgments
 Thanks to the organizers of the AI & ML Internship for providing this valuable learning opportunity.
+
+![ai-,l](https://github.com/user-attachments/assets/d7b56db9-1741-4552-ae85-324f9ee983df)
+
